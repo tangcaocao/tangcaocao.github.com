@@ -116,7 +116,7 @@ disqus:
 #################################### global configure #######################################
 
 username: tangcaocao
-baseurl: /
+baseurl: /blob
 markdown: redcarpet
 safe: false
 highlighter: pygments
